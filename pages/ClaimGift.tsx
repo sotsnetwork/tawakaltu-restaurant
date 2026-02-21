@@ -84,7 +84,7 @@ const ClaimGift: React.FC = () => {
             <div className="bg-white dark:bg-zinc-900 rounded-xl shadow-sm border border-gray-100 dark:border-zinc-800 overflow-hidden transition-all">
               <div 
                 className="h-56 bg-cover bg-center relative" 
-                style={{ backgroundImage: 'url("https://lh3.googleusercontent.com/aida-public/AB6AXuDIqTID80O7RWk1cwOXkYRaXkapDU_riyrdpdgutFHjMod4NFqBxzsnT5b_MuvhGV_tu430Ub2lgYuYDi87kxFxw5cX5CYKmLg1iVZAGgSeGyIA0jXEW6g85Gy-n3ofhXDqKGYm4A9LS-QXIEUz_OvW-FnbbUYAYL3IV3sqpkIQcLCPyXjNfz7dZC_qUT9BJ0rdv8MSTCqb0lIYhXFgbonjsoxSf_5U0q-Khrw2cHX_8mUt0Wi1zcIat_bRddJYAkPtWPJGQZxIQ4o")' }}
+                style={{ backgroundImage: 'url("https://picsum.photos/seed/tawakaltu-claim/800/600")' }}
               >
                 <div className="absolute top-4 right-4 bg-primary text-white px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider">
                   Gifted
