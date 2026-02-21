@@ -1,7 +1,4 @@
 {
   "name": "Tawakaltu Food Restaurant",
-  "description": "Authentic Nigerian flavors crafted with love. Experience the warmth of traditional hospitality with our signature Jollof, Basmati selections, and gourmet gifts.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
+  "description": "Authentic Nigerian flavors crafted with love. Experience the warmth of traditional hospitality with our signature Jollof, Basmati selections, and gourmet gifts."
 }
