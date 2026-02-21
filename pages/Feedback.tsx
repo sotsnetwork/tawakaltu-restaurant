@@ -21,7 +21,7 @@ const Feedback: React.FC = () => {
           <div className="w-full overflow-hidden bg-white dark:bg-zinc-900 shadow-2xl aspect-[16/10] rounded-xl flex border-4 border-white dark:border-zinc-800 transition-all">
             <div 
               className="w-full bg-center bg-no-repeat bg-cover aspect-auto" 
-              style={{ backgroundImage: 'url("https://lh3.googleusercontent.com/aida-public/AB6AXuCArsXftOa9rig5jRfUGvjE-kjhocQLxLySiMJRY5AJFgvR0__x3sDv3gRjXX5V9OCsbrywa0K0VVSaRbPX2mc3kw5ghGBWhFm-P_s9MhBwuQ4DOeEpAKQJ0Y9CXIcZYMyaVawZeeRjbsRvo15hxwjvHm29yAYN5avR-DY1PxkX39vaktLS9JJaWgkx0dNQT7XkI3DLBUE8J7bZVFKpqlFCp68QWd71hS78j2HNkVnNutbGXeNA6ipl96f2An2QITwUDn_ixBzUt4s")' }}
+              style={{ backgroundImage: 'url("https://picsum.photos/seed/tawakaltu-feedback/1200/800")' }}
             ></div>
           </div>
         </div>
