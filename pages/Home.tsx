@@ -53,7 +53,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
       <section className="relative h-[85vh] w-full flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60 z-10"></div>
-          <div className="w-full h-full bg-cover bg-center animate-slow-zoom" style={{ backgroundImage: 'url("https://picsum.photos/seed/tawakaltu-hero/1920/1080")' }}></div>
+          <div className="w-full h-full bg-cover bg-center animate-slow-zoom" style={{ backgroundImage: 'url("https://lh3.googleusercontent.com/aida-public/AB6AXuBlL8l-ISP-0J_pUOlqYWWpwyJgnEJ2y5qiThPsJvTgNM82cShV6GmLaFBp99-XZqkSiKGODvCSm4VpwNx4MozqWJwU2YchfZVPmp4pD6BFEc644bF-6mG26usSdvT-WvezCGBgBVmT1a1aUalf_SbK5RPSbYiyiRnVRg05Wc451aL5Wh2vxOtPAgdnS5_czQqApqcjyBLrGhY0VQfSjupyjfSySDOP0Vjrt1VTCB57jDptEbxwMtXSJpDgMSVGy-THV448evf9b50")' }}></div>
         </div>
         <div className="relative z-20 text-center px-4 max-w-4xl mx-auto">
           <div className="mb-6 flex justify-center items-center gap-4">
